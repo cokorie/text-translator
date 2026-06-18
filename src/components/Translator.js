@@ -1,4 +1,4 @@
-import React, { use, useEffect } from "react";
+import React, { useEffect } from "react";
 
 const Translator = () => {
     useEffect(() => {
@@ -8,6 +8,8 @@ const Translator = () => {
         const selectTag = document.querySelectorAll("select");
         const icons = document.querySelectorAll(".row i");
         const translateBtn = document.querySelector("button");
+
+
     }, []);
 
     return (
