@@ -6,6 +6,7 @@ const Translator = () => {
         const toText = document.querySelector(".to-text");
         const exchageIcon = document.querySelector(".exchange");
         const selectTag = document.querySelectorAll("select");
+        const icons = document.querySelectorAll(".row i");
     }, []);
 
     return (
