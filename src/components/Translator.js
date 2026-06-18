@@ -5,6 +5,7 @@ const Translator = () => {
         const fromText = document.querySelector(".from-text");
         const toText = document.querySelector(".to-text");
         const exchageIcon = document.querySelector(".exchange");
+        const selectTag = document.querySelectorAll("select");
     }, []);
 
     return (
