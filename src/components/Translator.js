@@ -4,6 +4,7 @@ const Translator = () => {
     useEffect(() => {
         const fromText = document.querySelector(".from-text");
         const toText = document.querySelector(".to-text");
+        const exchageIcon = document.querySelector(".exchange");
     }, []);
 
     return (
