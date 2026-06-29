@@ -18,4 +18,6 @@ const countries = {
     "de-DE": "German",
     "dv-MV": "Maldivian",
     "el-GR": "Greek",
+    "en-GB": "English",
+    "en-US": "English (US)",
 };
