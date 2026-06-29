@@ -6,4 +6,5 @@ const countries = {
     "bi-VU": "Bislama",
     "bjs-BB": "Bajan",
     "bn-IN": "Bengali",
+    "bo-CN": "Tibetan",
 };
