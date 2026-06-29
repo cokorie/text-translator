@@ -8,4 +8,5 @@ const countries = {
     "bn-IN": "Bengali",
     "bo-CN": "Tibetan",
     "br-FR": "Breton",
+    "bs-BA": "Bosnian",
 };
