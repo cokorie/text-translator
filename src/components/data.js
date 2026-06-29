@@ -10,4 +10,5 @@ const countries = {
     "br-FR": "Breton",
     "bs-BA": "Bosnian",
     "ca-ES": "Catalan",
+    "cop-EG": "Coptic",
 };
