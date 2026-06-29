@@ -12,4 +12,5 @@ const countries = {
     "ca-ES": "Catalan",
     "cop-EG": "Coptic",
     "cs-CZ": "Czech",
+    "cy-GB": "Welsh",
 };
