@@ -8,8 +8,9 @@ const Translator = () => {
         const selectTag = document.querySelectorAll("select");
         const icons = document.querySelectorAll(".row i");
         const translateBtn = document.querySelector("button");
-
-
+        selectTag.forEach((tag, id) => {
+            
+        }
     }, []);
 
     return (
