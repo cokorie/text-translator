@@ -20,4 +20,5 @@ const countries = {
     "el-GR": "Greek",
     "en-GB": "English",
     "en-US": "English (US)",
+    "es-ES": "Spanish",
 };
