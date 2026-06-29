@@ -13,4 +13,5 @@ const countries = {
     "cop-EG": "Coptic",
     "cs-CZ": "Czech",
     "cy-GB": "Welsh",
+    "da-DK": "Danish",
 };
