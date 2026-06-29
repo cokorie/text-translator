@@ -17,4 +17,5 @@ const countries = {
     "dz-BT": "Dzongkha",
     "de-DE": "German",
     "dv-MV": "Maldivian",
+    "el-GR": "Greek",
 };
