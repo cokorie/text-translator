@@ -25,4 +25,5 @@ const countries = {
     "eu-ES": "Basque",
     "fa-IR": "Persian",
     "fi-FI": "Finnish",
+    "fn-FNG": "Fanagalo",
 };
