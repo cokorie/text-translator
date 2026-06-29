@@ -15,4 +15,5 @@ const countries = {
     "cy-GB": "Welsh",
     "da-DK": "Danish",
     "dz-BT": "Dzongkha",
+    "de-DE": "German",
 };
