@@ -21,4 +21,5 @@ const countries = {
     "en-GB": "English",
     "en-US": "English (US)",
     "es-ES": "Spanish",
+    "et-EE": "Estonian",
 };
