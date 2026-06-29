@@ -14,4 +14,5 @@ const countries = {
     "cs-CZ": "Czech",
     "cy-GB": "Welsh",
     "da-DK": "Danish",
+    "dz-BT": "Dzongkha",
 };
