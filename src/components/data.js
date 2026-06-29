@@ -22,4 +22,5 @@ const countries = {
     "en-US": "English (US)",
     "es-ES": "Spanish",
     "et-EE": "Estonian",
+     "eu-ES": "Basque",
 };
