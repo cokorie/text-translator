@@ -10,7 +10,7 @@ const Translator = () => {
         const translateBtn = document.querySelector("button");
         selectTag.forEach((tag, id) => {
             
-        }
+        })}
     }, []);
 
     return (
