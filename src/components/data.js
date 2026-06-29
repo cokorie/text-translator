@@ -24,4 +24,5 @@ const countries = {
     "et-EE": "Estonian",
     "eu-ES": "Basque",
     "fa-IR": "Persian",
+    "fi-FI": "Finnish",
 };
