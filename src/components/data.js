@@ -26,4 +26,5 @@ const countries = {
     "fa-IR": "Persian",
     "fi-FI": "Finnish",
     "fn-FNG": "Fanagalo",
+    "fo-FO": "Faroese",
 };
