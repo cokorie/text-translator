@@ -87,4 +87,5 @@ const countries = {
     "tet-TL": "Tetum",
     "tg-TJ": "Tajik",
     "th-TH": "Thai",
+    "ti-ER": "Tigrinya",
 };
