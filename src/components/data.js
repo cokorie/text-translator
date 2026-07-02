@@ -42,4 +42,5 @@ const countries = {
     "ja-JP": "Japanese",
     "kk-KZ": "Kazakh",
     "km-KH": "Khmer",
+    "kn-IN": "Kannada",
 };
