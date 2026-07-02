@@ -79,4 +79,5 @@ const countries = {
     "sn-ZW": "Shona",
     "so-SO": "Somali",
     "sq-AL": "Albanian",
+    "sr-RS": "Serbian",
 };
