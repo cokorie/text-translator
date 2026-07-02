@@ -84,4 +84,5 @@ const countries = {
     "sw-KE": "Swahili",
     "ta-IN": "Tamil",
     "te-IN": "Telugu",
+    "tet-TL": "Tetum",
 };
