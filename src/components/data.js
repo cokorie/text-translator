@@ -94,4 +94,5 @@ const countries = {
     "tr-TR": "Turkish",
     "uk-UA": "Ukrainian",
     "uz-UZ": "Uzbek",
+    "vi-VN": "Vietnamese",
 };
