@@ -59,4 +59,5 @@ const countries = {
     "ne-NP": "Nepali",
     "niu-NU": "Niuean",
     "nl-NL": "Dutch",
+    "no-NO": "Norwegian",
 };
