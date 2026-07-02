@@ -48,4 +48,5 @@ const countries = {
     "ky-KG": "Kyrgyz",
     "la-VA": "Latin",
     "lo-LA": "Lao",
+    "lv-LV": "Latvian",
 };
