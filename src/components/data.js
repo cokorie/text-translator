@@ -28,4 +28,5 @@ const countries = {
     "fn-FNG": "Fanagalo",
     "fo-FO": "Faroese",
     "fr-FR": "French",
+    "gl-ES": "Galician",
 };
