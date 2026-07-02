@@ -96,4 +96,5 @@ const countries = {
     "uz-UZ": "Uzbek",
     "vi-VN": "Vietnamese",
     "wo-SN": "Wolof",
+    "xh-ZA": "Xhosa",
 };
