@@ -98,4 +98,7 @@ const countries = {
     "wo-SN": "Wolof",
     "xh-ZA": "Xhosa",
     "yi-DE": "Yiddish",
+    "zh-CN": "Chinese (Simplified)",
+    "zh-HK": "Chinese (Traditional)",
+    "zh-TW": "Chinese (Traditional)",
 };
