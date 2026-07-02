@@ -29,4 +29,5 @@ const countries = {
     "fo-FO": "Faroese",
     "fr-FR": "French",
     "gl-ES": "Galician",
+    "gu-IN": "Gujarati",
 };
