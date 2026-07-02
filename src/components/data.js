@@ -56,4 +56,5 @@ const countries = {
     "ms-MY": "Malay",
     "mt-MT": "Maltese",
     "my-MM": "Burmese",
+    "ne-NP": "Nepali",
 };
