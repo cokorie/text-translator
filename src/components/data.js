@@ -54,4 +54,5 @@ const countries = {
     "mg-MG": "Malagasy",
     "mi-NZ": "Maori",
     "ms-MY": "Malay",
+    "mt-MT": "Maltese",
 };
