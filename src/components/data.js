@@ -103,3 +103,5 @@ const countries = {
     "zh-TW": "Chinese (Traditional)",
     "zu-ZA": "Zulu"
 };
+
+export default countries;
