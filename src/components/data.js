@@ -91,4 +91,5 @@ const countries = {
     "tk-TM": "Turkmen",
     "tn-BW": "Tswana",
     "to-TO": "Tongan",
+    "tr-TR": "Turkish",
 };
