@@ -40,5 +40,5 @@ const countries = {
     "is-IS": "Icelandic",
     "it-IT": "Italian",
     "ja-JP": "Japanese",
-    
+    "kk-KZ": "Kazakh",
 };
