@@ -41,4 +41,5 @@ const countries = {
     "it-IT": "Italian",
     "ja-JP": "Japanese",
     "kk-KZ": "Kazakh",
+    "km-KH": "Khmer",
 };
