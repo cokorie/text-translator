@@ -60,4 +60,5 @@ const countries = {
     "niu-NU": "Niuean",
     "nl-NL": "Dutch",
     "no-NO": "Norwegian",
+    "ny-MW": "Nyanja",
 };
