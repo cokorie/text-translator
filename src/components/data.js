@@ -62,5 +62,5 @@ const countries = {
     "no-NO": "Norwegian",
     "ny-MW": "Nyanja",
     "ur-PK": "Urdu",
-    
+    "pau-PW": "Palauan",
 };
