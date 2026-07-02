@@ -39,4 +39,6 @@ const countries = {
     "in-ID": "Indonesian",
     "is-IS": "Icelandic",
     "it-IT": "Italian",
+    "ja-JP": "Japanese",
+    
 };
