@@ -76,4 +76,5 @@ const countries = {
     "si-LK": "Sinhala",
     "sk-SK": "Slovak",
     "sm-WS": "Samoan",
+    "sn-ZW": "Shona",
 };
