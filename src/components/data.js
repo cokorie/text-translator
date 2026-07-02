@@ -35,4 +35,5 @@ const countries = {
     "hi-IN": "Hindi",
     "hr-HR": "Croatian",
     "hu-HU": "Hungarian",
+    "ig-NG": "Igbo",
 };
