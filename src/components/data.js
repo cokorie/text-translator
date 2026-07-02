@@ -63,4 +63,5 @@ const countries = {
     "ny-MW": "Nyanja",
     "ur-PK": "Urdu",
     "pau-PW": "Palauan",
+    "pa-IN": "Punjabi",
 };
