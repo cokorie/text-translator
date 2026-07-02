@@ -90,4 +90,5 @@ const countries = {
     "ti-ER": "Tigrinya",
     "tk-TM": "Turkmen",
     "tn-BW": "Tswana",
+    "to-TO": "Tongan",
 };
