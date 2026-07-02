@@ -49,4 +49,5 @@ const countries = {
     "la-VA": "Latin",
     "lo-LA": "Lao",
     "lv-LV": "Latvian",
+    "lt-LT": "Lithuanian",
 };
