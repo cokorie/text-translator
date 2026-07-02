@@ -74,4 +74,5 @@ const countries = {
     "ru-RU": "Russian",
     "sg-CF": "Sango",
     "si-LK": "Sinhala",
+    "sk-SK": "Slovak",
 };
