@@ -44,4 +44,5 @@ const countries = {
     "km-KH": "Khmer",
     "kn-IN": "Kannada",
     "ko-KR": "Korean",
+    "ku-TR": "Kurdish",
 };
