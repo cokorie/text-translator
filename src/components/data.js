@@ -72,4 +72,5 @@ const countries = {
     "rn-BI": "Rundi",
     "ro-RO": "Romanian",
     "ru-RU": "Russian",
+    "sg-CF": "Sango",
 };
