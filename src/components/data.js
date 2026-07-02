@@ -61,4 +61,6 @@ const countries = {
     "nl-NL": "Dutch",
     "no-NO": "Norwegian",
     "ny-MW": "Nyanja",
+    "ur-PK": "Urdu",
+    
 };
