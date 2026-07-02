@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import countries from "./data.js";
 
 const Translator = () => {
     useEffect(() => {
