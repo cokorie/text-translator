@@ -51,4 +51,5 @@ const countries = {
     "lv-LV": "Latvian",
     "lt-LT": "Lithuanian",
     "men-SL": "Mende",
+    "mg-MG": "Malagasy",
 };
