@@ -101,4 +101,5 @@ const countries = {
     "zh-CN": "Chinese (Simplified)",
     "zh-HK": "Chinese (Traditional)",
     "zh-TW": "Chinese (Traditional)",
+    "zu-ZA": "Zulu"
 };
