@@ -32,4 +32,5 @@ const countries = {
     "gu-IN": "Gujarati",
     "ha-NE": "Hausa",
     "he-IL": "Hebrew",
+    "hi-IN": "Hindi",
 };
