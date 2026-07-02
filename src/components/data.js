@@ -93,4 +93,5 @@ const countries = {
     "to-TO": "Tongan",
     "tr-TR": "Turkish",
     "uk-UA": "Ukrainian",
+    "uz-UZ": "Uzbek",
 };
