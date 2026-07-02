@@ -46,4 +46,5 @@ const countries = {
     "ko-KR": "Korean",
     "ku-TR": "Kurdish",
     "ky-KG": "Kyrgyz",
+    "la-VA": "Latin",
 };
