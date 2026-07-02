@@ -38,4 +38,5 @@ const countries = {
     "ig-NG": "Igbo",
     "in-ID": "Indonesian",
     "is-IS": "Icelandic",
+    "it-IT": "Italian",
 };
