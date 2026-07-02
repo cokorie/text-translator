@@ -66,4 +66,5 @@ const countries = {
     "pa-IN": "Punjabi",
     "ps-AF": "Pashto",
     "pis-PO": "Pijin",
+    "pl-PL": "Polish",
 };
