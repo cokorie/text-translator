@@ -67,4 +67,6 @@ const countries = {
     "ps-AF": "Pashto",
     "pis-PO": "Pijin",
     "pl-PL": "Polish",
+    "pt-PT": "Portuguese",
+    "pt-BR": "Portuguese (Brazil)",
 };
