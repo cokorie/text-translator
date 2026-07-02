@@ -97,4 +97,5 @@ const countries = {
     "vi-VN": "Vietnamese",
     "wo-SN": "Wolof",
     "xh-ZA": "Xhosa",
+    "yi-DE": "Yiddish",
 };
