@@ -92,4 +92,5 @@ const countries = {
     "tn-BW": "Tswana",
     "to-TO": "Tongan",
     "tr-TR": "Turkish",
+    "uk-UA": "Ukrainian",
 };
