@@ -69,4 +69,5 @@ const countries = {
     "pl-PL": "Polish",
     "pt-PT": "Portuguese",
     "pt-BR": "Portuguese (Brazil)",
+    "rn-BI": "Rundi",
 };
