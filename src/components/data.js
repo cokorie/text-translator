@@ -71,4 +71,5 @@ const countries = {
     "pt-BR": "Portuguese (Brazil)",
     "rn-BI": "Rundi",
     "ro-RO": "Romanian",
+    "ru-RU": "Russian",
 };
