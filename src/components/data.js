@@ -33,4 +33,5 @@ const countries = {
     "ha-NE": "Hausa",
     "he-IL": "Hebrew",
     "hi-IN": "Hindi",
+    "hr-HR": "Croatian",
 };
