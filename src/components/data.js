@@ -31,4 +31,5 @@ const countries = {
     "gl-ES": "Galician",
     "gu-IN": "Gujarati",
     "ha-NE": "Hausa",
+    "he-IL": "Hebrew",
 };
