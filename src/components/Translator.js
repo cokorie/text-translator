@@ -19,6 +19,7 @@ const Translator = () => {
 
         exchageIcon.addEventListener("click", () => {
             let tempText = fromText.value;
+            let tempLang = selectTag[0].value;
         }
         })}
     }, []);
