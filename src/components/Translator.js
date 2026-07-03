@@ -78,7 +78,7 @@ const Translator = () => {
 
     return (
         <div>
-            <img src="https://img.icons8.com/ios/50/000000/google-translate.png" alt="translate" />
+            <img src="https://img.icons8.com/ios/50/000000/google-translate.png" className="above-container-content" alt="translate" />
             <h1>Translator</h1>
         </div>
     );
