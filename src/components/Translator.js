@@ -21,6 +21,7 @@ const Translator = () => {
             let tempText = fromText.value;
             let tempLang = selectTag[0].value;
             fromText.value = toText.value;
+            toText.value = tempText;
         }
         })}
     }, []);
