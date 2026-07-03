@@ -32,6 +32,10 @@ const Translator = () => {
             }
         });
 
+        translateBtn.addEventListener("click", () => {
+            
+        });
+
         })}
     }, []);
 
