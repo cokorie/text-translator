@@ -44,6 +44,7 @@ const Translator = () => {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const translateText = await response.text();
+                toText.value = translateText;
             }
         });
 
