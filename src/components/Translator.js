@@ -73,9 +73,8 @@ const Translator = () => {
                 speechSynthesis.speak(utterance);
             }
         });
-
-        })}
-    }, []);
+    });
+}, []);
 
     return (
         <div>
