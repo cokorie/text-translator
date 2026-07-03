@@ -15,6 +15,11 @@ const Translator = () => {
                 let option = `<option ${selected} value="${country_code}">${countries[country_code]}</option>`;
                 tag.insertAdjacentHTML("beforeend", option);
             }
+        });
+
+        exchageIcon.addEventListener("click", () => {
+            let tempText = fromText.value;
+        }
         })}
     }, []);
 
