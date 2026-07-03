@@ -45,6 +45,7 @@ const Translator = () => {
                 }
                 const translateText = await response.text();
                 toText.value = translateText;
+                toText.setAttribute("placeholder", "Translation");
             }
         });
 
