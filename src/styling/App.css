@@ -38,4 +38,5 @@ body {
 
 .above-container {
   display: flex;
+  align-items: center;
 }
