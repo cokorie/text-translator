@@ -38,6 +38,9 @@ const Translator = () => {
             let translateTo = selectTag[1].value;
             if (!text) return;
             toText.setAttribute("placeholder", "Translating...");
+            try {
+                
+            }
         });
 
         })}
