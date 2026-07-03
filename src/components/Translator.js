@@ -79,6 +79,7 @@ const Translator = () => {
     return (
         <div>
             <img src="https://img.icons8.com/ios/50/000000/google-translate.png" alt="translate" />
+            <h1>Translator</h1>
         </div>
     );
 }
