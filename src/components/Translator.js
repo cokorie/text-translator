@@ -33,7 +33,7 @@ const Translator = () => {
         });
 
         translateBtn.addEventListener("click", () => {
-            
+            let text = fromText.value.trim();
         });
 
         })}
