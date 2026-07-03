@@ -35,6 +35,7 @@ const Translator = () => {
         translateBtn.addEventListener("click", () => {
             let text = fromText.value.trim();
             let translateFrom = selectTag[0].value;
+            let translateTo = selectTag[1].value;
         });
 
         })}
