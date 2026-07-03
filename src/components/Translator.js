@@ -54,7 +54,7 @@ const Translator = () => {
 
         icons.forEach((icon) => {
             icon.addEventListener("click", ({ target }) => {
-                
+                if (!fromText.value || !toText.value) return;
             }
         });
 
