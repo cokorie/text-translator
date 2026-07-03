@@ -62,7 +62,7 @@ const Translator = () => {
                         navigator.clipboard.writeText(toText.value);
                     }
             } else {
-                
+                let utterance;
             }
         });
 
