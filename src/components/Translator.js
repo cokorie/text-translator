@@ -52,6 +52,10 @@ const Translator = () => {
             }
         });
 
+        icons.forEach((icon) => {
+
+        });
+
         })}
     }, []);
 
