@@ -53,7 +53,9 @@ const Translator = () => {
         });
 
         icons.forEach((icon) => {
-
+            icon.addEventListener("click", ({ target }) => {
+                
+            }
         });
 
         })}
