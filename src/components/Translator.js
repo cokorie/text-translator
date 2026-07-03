@@ -61,6 +61,8 @@ const Translator = () => {
                     } else {
                         navigator.clipboard.writeText(toText.value);
                     }
+            } else {
+                
             }
         });
 
