@@ -30,7 +30,7 @@ body {
 }
 
 .wrapper .text-input {
-
+  display: flex;
 }
 
 .container button {
