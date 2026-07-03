@@ -10,7 +10,9 @@ const Translator = () => {
         const icons = document.querySelectorAll(".row i");
         const translateBtn = document.querySelector("button");
         selectTag.forEach((tag, id) => {
-            
+            for (const country_code in countries) {
+                
+            }
         })}
     }, []);
 
