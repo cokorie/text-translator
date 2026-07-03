@@ -63,6 +63,13 @@ const Translator = () => {
                     }
             } else {
                 let utterance;
+                if (target.id === "from") {
+                    utterance = new SpeechSynthesisUtterance(fromText.value);
+                    utterance.lang = selectTag[0].value;
+                } else {
+                    utterance = new SpeechSynthesisUtterance(toText.value);
+                    utterance.lang = selectTag[1].value;
+                }
             }
         });
 
