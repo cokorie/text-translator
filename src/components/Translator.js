@@ -40,6 +40,10 @@ const Translator = () => {
             toText.setAttribute("placeholder", "Translating...");
             try {
                 const response = await fetch(`http://localhost:5000/?text=${text}&source=${translateFrom}&target=${translateTo}`);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
                 
             }
         });
