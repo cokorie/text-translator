@@ -24,7 +24,14 @@ const Translator = () => {
             toText.value = tempText;
             selectTag[0].value = selectTag[1].value;
             selectTag[1].value = tempLang;
-        }
+        });
+
+        fromtext.addEventListener("keyup", () => {
+            if (!fromText.value) {
+                toText.value = "";
+            }
+        });
+
         })}
     }, []);
 
