@@ -39,6 +39,7 @@ const Translator = () => {
             if (!text) return;
             toText.setAttribute("placeholder", "Translating...");
             try {
+                const response = await fetch(`http://localhost:5000/?text=${text}&source=${translateFrom}&target=${translateTo}`);
                 
             }
         });
