@@ -37,5 +37,5 @@ body {
 }
 
 .above-container {
-
+  display: flex;
 }
