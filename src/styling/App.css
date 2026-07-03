@@ -45,4 +45,5 @@ body {
 .above-container-content {
   font-size: xx-large;
   font-weight: 100;
+  display: inline;
 }
