@@ -48,6 +48,7 @@ const Translator = () => {
                 toText.setAttribute("placeholder", "Translation");
             } catch (error) {
                 console.error("Fetch error:", error);
+                toText.setAttribute("placeholder", "Error in translation");
             }
         });
 
