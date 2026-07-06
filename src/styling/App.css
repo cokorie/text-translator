@@ -52,7 +52,7 @@ body {
 }
 
 .text-input textarea::placeholder {
-
+  color: #b7b6b6;
 }
 
 .container button {
