@@ -62,7 +62,7 @@ body {
 }
 
 .controls {
-
+  list-style: none;
 }
 
 .container button {
