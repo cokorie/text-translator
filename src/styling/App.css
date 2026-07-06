@@ -51,6 +51,10 @@ body {
   border-radius: 5px;
 }
 
+.text-input textarea::placeholder {
+
+}
+
 .container button {
   width: 100%;
   padding: 14px;
