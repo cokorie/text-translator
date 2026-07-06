@@ -55,14 +55,14 @@ body {
   color: #b7b6b6;
 }
 
-controls, li, .icons, icons i {
+.controls, li, .icons, icons i {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
 .controls {
-  
+
 }
 
 .container button {
