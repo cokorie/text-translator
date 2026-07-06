@@ -63,6 +63,7 @@ body {
 
 .controls {
   list-style: none;
+  padding: 12px 15px;
 }
 
 .container button {
