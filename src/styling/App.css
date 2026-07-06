@@ -39,8 +39,8 @@ body {
   border-left: 1px solid #ccc;
 }
 
-.text-input textarea {_
-
+.text-input textarea {
+  height: 250px;
 }
 
 .container button {
