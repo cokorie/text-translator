@@ -55,6 +55,10 @@ body {
   color: #b7b6b6;
 }
 
+controls, li, .icons, icons i {
+  
+}
+
 .container button {
   width: 100%;
   padding: 14px;
