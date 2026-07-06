@@ -48,6 +48,7 @@ body {
   background: none;
   font-size: 18px;
   padding: 10px 15px;
+  border-radius: 5px;
 }
 
 .container button {
