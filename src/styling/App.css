@@ -44,6 +44,7 @@ body {
   width: 100%;
   border: none;
   outline: none;
+  resize: none;
 }
 
 .container button {
