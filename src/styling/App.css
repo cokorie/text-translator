@@ -58,6 +58,7 @@ body {
 controls, li, .icons, icons i {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .container button {
