@@ -99,7 +99,7 @@ body {
 }
 
 .text-input textarea {
-  
+  width: 4px;
 }
 
 .container button {
