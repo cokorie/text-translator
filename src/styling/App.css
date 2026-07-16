@@ -73,6 +73,7 @@ body {
 .controls .row .icons i {
   width: 50px;
   color: #adadad;
+  font-size: 14px;
 }
 
 .container button {
