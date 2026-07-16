@@ -93,6 +93,7 @@ body {
   color: #333;
   border: none;
   outline: none;
+  font-size: 18px;
 }
 
 .container button {
