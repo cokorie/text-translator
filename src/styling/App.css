@@ -103,7 +103,7 @@ body {
 }
 
 .controls .row select:: -webkit-scrollbar {
-
+  width: 8px;
 }
 
 .container button {
