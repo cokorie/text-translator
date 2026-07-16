@@ -108,7 +108,7 @@ body {
 
 .text-input textarea:: -webkit-scrollbar-track, 
 .controls .row select:: -webkit-scrollbar-track {
-  
+  background: #fff;
 }
 
 .container button {
