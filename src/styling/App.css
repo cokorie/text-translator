@@ -102,6 +102,10 @@ body {
   width: 4px;
 }
 
+.controls .row select {
+  
+}
+
 .container button {
   width: 100%;
   padding: 14px;
