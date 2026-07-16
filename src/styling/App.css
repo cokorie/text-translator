@@ -102,8 +102,8 @@ body {
   width: 4px;
 }
 
-.controls .row select {
-  
+.controls .row select:: -webkit-scrollbar {
+
 }
 
 .container button {
