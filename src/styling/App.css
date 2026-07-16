@@ -75,6 +75,7 @@ body {
   color: #adadad;
   font-size: 14px;
   cursor: pointer;
+  transition: transform 0.2s ease;
 }
 
 .container button {
