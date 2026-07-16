@@ -112,7 +112,7 @@ body {
 }
 
 .text-input textarea:: -webkit-scrollbar-thumb {
-  
+  background: #ddd;
 }
 
 .container button {
