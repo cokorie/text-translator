@@ -98,6 +98,10 @@ body {
   padding-left: 5px;
 }
 
+.text-input textarea {
+  
+}
+
 .container button {
   width: 100%;
   padding: 14px;
