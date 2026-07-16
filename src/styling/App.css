@@ -94,6 +94,7 @@ body {
   border: none;
   outline: none;
   font-size: 18px;
+  background: none;
 }
 
 .container button {
