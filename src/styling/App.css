@@ -122,6 +122,10 @@ body {
   border-right: 2px solid #fff;
 }
 
+.controls .row {
+  
+}
+
 .container button {
   width: 100%;
   padding: 14px;
