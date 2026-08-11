@@ -129,6 +129,10 @@ body {
   transition: transform 0.2s ease;
 }
 
+.controls i:active {
+  
+}
+
 .container button {
   width: 100%;
   padding: 14px;
