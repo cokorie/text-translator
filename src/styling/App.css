@@ -118,7 +118,7 @@ body {
 
 .controls .row select:: -webkit-scrollbar-thumb {
   background: #999;
-  border-radius:
+  border-radius: 8px;
 }
 
 .container button {
