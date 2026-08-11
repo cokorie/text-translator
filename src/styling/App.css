@@ -130,7 +130,7 @@ body {
 }
 
 .controls i:active {
-  transform:
+  transform: scale(0.9);
 }
 
 .container button {
