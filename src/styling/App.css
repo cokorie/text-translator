@@ -124,7 +124,7 @@ body {
 
 .controls .exchange {
   color: #adadad;
-  cursor:
+  cursor: pointer;
 }
 
 .container button {
