@@ -126,6 +126,7 @@ body {
   color: #adadad;
   cursor: pointer;
   font-size: 16px;
+  transition:
 }
 
 .container button {
